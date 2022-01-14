@@ -22,7 +22,7 @@ WHO AM I
 <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/>
-<a href="[https://blog.naver.com/sophia0313]" target="_blank"><img src="https://img.shields.io/badge/Daily%20Blog-00FF00?style=flat&logo=appveyor&logoColor=white"/>
+<a href="[https://blog.naver.com/sophia0313]" target="_blank"><img src="https://img.shields.io/badge/Daily%20Blog-00FF00?style=flat&logo=appveyor&logoColor=white&link=https://blog.naver.com/sophia0313"/></a>&nbsp
 
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=SL313" height="165">
