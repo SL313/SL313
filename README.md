@@ -4,11 +4,13 @@
 **SL313/SL313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 WHO AM I
 
 🔭 I’m currently studying on Chung-Ang University (2020.02~)
 🌱 I’m currently learning C++, React
+<--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -24,5 +26,9 @@ WHO AM I
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/>
 <a href="[https://blog.naver.com/sophia0313]" target="_blank"><img src="https://img.shields.io/badge/Daily%20Blog-00FF00?style=flat&logo=appveyor&logoColor=white&link=https://blog.naver.com/sophia0313"/></a>&nbsp
 
+<a href="http://melonicedlatte.com/">
+    <img src="https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>"
+        style="height : auto; margin-left : 8px; margin-right : 8px;"/>
+</a>
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=SL313" height="165">
