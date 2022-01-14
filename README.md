@@ -36,6 +36,7 @@ Here are some ideas to get you started:
          
 ### WHO AM I
    
+- :checkered_flag: My MBTI : __ESTP__
 - 🔭 I’m currently studying on Chung-Ang University (2020.02~)
 - 🌱 I’m currently learning C++, React
       
