@@ -22,5 +22,5 @@ WHO AM I
 <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/>
-<img src="https://img.shields.io/badge/Daily%20Blog-555263?style=for-the-badge&logo=appveyor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Daily%20Blog-00FF00?style=flat&logo=appveyor&logoColor=white"/>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=SL313" height="165">
