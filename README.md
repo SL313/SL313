@@ -1,26 +1,11 @@
-### Welcome to my World 👋
+## Welcome to my World 👋
 
-<!--
-**SL313/SL313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    
+    
 
-Here are some ideas to get you started:
--->
-
-WHO AM I
-
-- 🔭 I’m currently studying on Chung-Ang University (2020.02~)
-- 🌱 I’m currently learning C++, React
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yepn1">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false">
+
+
 
 <a href="https://open.kakao.com/o/sv9LdL6c">
     <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/>
@@ -38,4 +23,43 @@ WHO AM I
     <img src="https://img.shields.io/badge/Daily%20Blog-00FF00?style=flat&logo=appveyor&logoColor=white"/>
 </a>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=SL313" height="165">
+
+
+<!--
+**SL313/SL313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+-->
+
+    
+         
+         
+### WHO AM I
+   
+- 🔭 I’m currently studying on Chung-Ang University (2020.02~)
+- 🌱 I’m currently learning C++, React
+      
+        
+### WHAT I LIKE
+
+- 😄 Meeting Friends
+- :clapper: Watching Movies
+- :books: Reading Books
+
+     
+       
+       
+       
+       
+
+<!--
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- ⚡ Fun fact: ...
+-->
+
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yepn1">
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=SL313&theme=dracula&show_icons=true" height="165">
