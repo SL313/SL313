@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://blog.naver.com/sophia0313">
+<a href="https://solved.ac/profile/yepn1">
     <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yepn1">
 </a>
 
