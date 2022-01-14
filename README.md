@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 
 WHO AM I
 
-🔭 I’m currently studying on Chung-Ang University (2020.02~)
-🌱 I’m currently learning C++, React
-<--
+- 🔭 I’m currently studying on Chung-Ang University (2020.02~)
+- 🌱 I’m currently learning C++, React
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
