@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 
 WHO AM I
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+🔭 I’m currently studying on Chung-Ang University (2020.02~)
+🌱 I’m currently learning C++, React
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -22,5 +22,7 @@ WHO AM I
 <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/>
-<img src="https://img.shields.io/badge/Daily%20Blog-00FF00?style=flat&logo=appveyor&logoColor=white"/>
+<a href="[https://blog.naver.com/sophia0313]" target="_blank"><img src="https://img.shields.io/badge/Daily%20Blog-00FF00?style=flat&logo=appveyor&logoColor=white"/>
+
+
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=SL313" height="165">
