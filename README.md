@@ -26,6 +26,10 @@ WHO AM I
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/>
 <a href="[https://blog.naver.com/sophia0313]" target="_blank"><img src="https://img.shields.io/badge/Daily%20Blog-00FF00?style=flat&logo=appveyor&logoColor=white&link=https://blog.naver.com/sophia0313"/></a>&nbsp
 
+<a href="https://open.kakao.com/o/sv9LdL6c">
+    <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/>
+</a>
+
 <a href="http://melonicedlatte.com/">
     <img src="https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>"
         style="height : auto; margin-left : 8px; margin-right : 8px;"/>
