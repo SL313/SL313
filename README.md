@@ -45,13 +45,8 @@ Here are some ideas to get you started:
 
 - 😄 Meeting Friends
 - :clapper: Watching Movies
-- :books: Reading Books
-
-     
-       
-       
-       
-       
+- :books: Reading Books    
+<br/>     
 
 <!--
 - 👯 I’m looking to collaborate on ...
