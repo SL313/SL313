@@ -16,8 +16,8 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/>
 </a>
                                                                                                      
-<a href="https://blog.naver.com/sophia0313">
-    <img src="https://img.shields.io/badge/Daily%20Blog-3dff67?style=flat-square&logo=appveyor&logoColor=white"/>
+<a href="https://velog.io/@yepppi">
+    <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
 </a>
 
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
    
 - :checkered_flag: My MBTI : __ESTP__
 - 🔭 I’m currently studying on Chung-Ang University (2020.02~)
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python and Spring
       
         
 ### WHAT I LIKE
