@@ -1,8 +1,18 @@
-## Welcome to my World 👋
+<div align="center">
 
-    
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=250&fontColor=FA8072&section=header&text=YEPPPI%20WORLD&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Welcome%20to&descAlignY=13.5&descAlign=50)
+
+</div>
+
+
+<div align="center">
+<p align='center'>
+
+### :high_brightness:TODAY VISITED:high_brightness:
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSL313&count_bg=%23B5E1FF&title_bg=%2383B2FF&icon=smugmug.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/SL313)
 
+### :high_brightness:HOW TO CONTACT ME:high_brightness:
 
 <a href="https://open.kakao.com/o/sv9LdL6c">
     <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/>
@@ -20,7 +30,8 @@
     <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
 </a>
 
-
+</p>
+</div>
 
 <!--
 **SL313/SL313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -72,12 +83,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
  Fun fact: ...
 -->
+<!--
 <a href="https://solved.ac/profile/yepn1">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yepn1">
 </a>
+-->
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=SL313&theme=dracula&show_icons=true" height="165">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sl313&title=MultiLanguage,Commits,PullRequest,Repositories,Issues&theme=onedark&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
