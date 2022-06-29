@@ -92,6 +92,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=SL313&theme=dracula&show_icons=true" height="165">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sl313&title=MultiLanguage,Commits,PullRequest,Repositories,Issues&theme=onedark&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sl313&title=MultiLanguage,Commits,Stars,PullRequest,Repositories&theme=onedark&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
