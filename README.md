@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 </a>
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sl313&layout=compact)](https://github.com/sl313/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=SL313&theme=dracula&show_icons=true" height="165">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sl313&title=MultiLanguage,Commits,Stars,PullRequest,Repositories&theme=onedark&column=5)](https://github.com/ryo-ma/github-profile-trophy)
