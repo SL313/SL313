@@ -1,6 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&fontColor=FA8072&section=header&text=YEPPPI%20WORLD&fontSize=80&animation=fadeIn&fontAlignY=80&fontAlign=50&desc=Welcome%20to&descAlignY=13.5&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&fontColor=F7819F&section=header&text=YEPPPI%20WORLD&fontSize=80&animation=fadeIn&fontAlignY=80&fontAlign=50&desc=Welcome%20to&descAlignY=13.5&descAlign=50&animation=twinkling)
+
+<br/>
 
 </div>
 
@@ -73,7 +75,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black"/>
     
 <br/>    
-<hr/><br/>
+<hr/>
+
+### :high_brightness:MY GITHUB STATS:high_brightness:
+
+<br/>
 
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -88,9 +94,13 @@ Here are some ideas to get you started:
 </a>
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sl313&layout=compact)](https://github.com/sl313/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=SL313&theme=dracula&show_icons=true" height="165">
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sl313&hide=Jupyter%20Notebook&layout=compact&theme=dark)](https://github.com/sl313/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=SL313&theme=radical&show_icons=true" height="165">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sl313&title=MultiLanguage,Commits,Stars,PullRequest,Repositories&theme=onedark&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="http://github-readme-streak-stats.herokuapp.com?user=sl313&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D&ring=e05397&fire=e05397" alt="sl313" />
 
 </div>
