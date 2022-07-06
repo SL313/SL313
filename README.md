@@ -115,7 +115,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sl313&hide=Jupyter%20Notebook&layout=compact&theme=dark)](https://github.com/sl313/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=SL313&theme=radical&show_icons=true" height="165">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sl313&title=MultiLanguage,Commits,Stars,PullRequest,Repositories&theme=onedark&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sl313&title=MultiLanguage,Commits,Organizations,Stars,PullRequest,Repositories&column=5&theme=onedark)](https://github.com/sl313/github-profile-trophy)
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=sl313&theme=cobalt&ring=e05397&fire=e05397" alt="sl313" />
 
