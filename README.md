@@ -106,12 +106,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
  Fun fact: ...
 -->
-<!--
-<a href="https://solved.ac/profile/yepn1">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yepn1">
-</a>
--->
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sl313&hide=Jupyter%20Notebook&layout=compact&theme=dark)](https://github.com/sl313/github-readme-stats)
