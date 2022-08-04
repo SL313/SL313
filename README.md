@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 - 😄 Meeting Friends
 - :clapper: Watching Movies
-- :books: Reading Books    
+- 📚 Reading Books    
 
 
 <hr/>
