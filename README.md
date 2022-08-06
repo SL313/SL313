@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ### WHAT I LIKE
 
 - 😄 Meeting Friends
-- :clapper: Watching Movies
+- 🎬 Watching Movies
 - 📚 Reading Books    
 
 
