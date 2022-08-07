@@ -112,6 +112,6 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SL313&title=MultiLanguage,Commits,Organizations,Stars,PullRequest&column=5&theme=onedark)](https://github.com/SL313/github-profile-trophy)
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=SL313&theme=cobalt&ring=e05397&fire=e05397" alt="SL313" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SL313&theme=cobalt&ring=e05397&fire=e05397" alt="SL313" />
 
 </div>
