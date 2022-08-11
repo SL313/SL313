@@ -1,4 +1,4 @@
-<div align="center">
+<div align="Center">
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&fontColor=F7819F&section=header&text=YEPPPI%20WORLD&fontSize=80&animation=fadeIn&fontAlignY=80&fontAlign=50&desc=Welcome%20to&descAlignY=13.5&descAlign=50&animation=twinkling)
 
