@@ -7,7 +7,7 @@
 </div>
 
 <div align="Center">
-<p align='center'>
+<p align='Center'>
 
 ### :high_brightness:TODAY VISITED:high_brightness:
 
