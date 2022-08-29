@@ -76,7 +76,7 @@ Here are some ideas to get you started:
     
 <br/>    
 
-### :high_brightness:WHAT I CAN USE:high_brightness:
+### :high_brightness:WHAT I CAN HANDLE:high_brightness:
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=black"/>
