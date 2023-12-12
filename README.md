@@ -9,11 +9,11 @@
 <div align="Center">
 <p align='Center'>
 
-### :high_brightness:TODAY VISITED:high_brightness:
+### 🔆TODAY VISITED🔆
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSL313&count_bg=%23B5E1FF&title_bg=%2383B2FF&icon=smugmug.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/SL313)
 
-### :high_brightness:HOW TO CONTACT ME:high_brightness:
+### 📞HOW TO CONTACT ME📞
 
 <a href="https://open.kakao.com/o/sv9LdL6c">
     <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/>
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
          
 ### WHO AM I
 
-- :checkered_flag: My MBTI : __ESTP__
+- 🏁 My MBTI : __ESTP__
 - 🔭 I’m currently studying on Chung-Ang University (2020.02~)
 - 🌱 I’m currently learning __Java__ and __Spring__
 
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 <hr/>
 <div align="center">
 
-### :high_brightness:WHAT I HAVE LEARNED:high_brightness:
+### 🍀WHAT I HAVE LEARNED🍀
 
 <img src="https://img.shields.io/badge/C-555555?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-F34B7D?style=flat-square&logo=C%2B%2B&logoColor=white"/>
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 
 <br/>    
 
-### :high_brightness:WHAT I CAN HANDLE:high_brightness:
+### 🌈WHAT I CAN HANDLE🌈
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=black"/>
@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 
 <br/>    
 
-### :high_brightness:WHAT I USE AS TOOLS:high_brightness:
+### 🍁WHAT I USE AS TOOLS🍁
 
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
@@ -111,7 +111,7 @@ Here are some ideas to get you started:
 <br/>    
 <hr/>
 
-### :high_brightness:MY GITHUB STATS:high_brightness:
+### 💗MY GITHUB STATS💗
 
 <br/>
 
@@ -123,11 +123,14 @@ Here are some ideas to get you started:
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sl313&hide=Jupyter%20Notebook,C,Assembly,Shell,Perl,Roff,Makefile,SmPL,Yacc&layout=compact&theme=dark)](https://github.com/sl313/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=SL313&theme=radical&show_icons=true" height="165">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SL313&title=MultiLanguage,Commits,Organizations,PullRequest,Repositories,Reviews,Followers&column=7&theme=onedark)](https://github.com/SL313/github-profile-trophy)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SL313&hide=Jupyter%20Notebook,C,Assembly,Shell,Perl,Roff,Makefile,SmPL,Yacc&layout=compact&theme=dark)
+![Yebin Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=SL313&show_icons=true&theme=radical)
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=SL313&theme=radical&show_icons=true" height="165">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SL313&theme=cobalt&ring=e05397&fire=e05397" alt="SL313" />
+-->
+
+![trophy](https://github-profile-trophy.vercel.app/?username=SL313&title=MultiLanguage,Commits,Organizations,PullRequest,Repositories,Reviews,Followers&column=7&theme=onedark)
+![streak](https://github-readme-streak-stats.herokuapp.com?user=SL313&theme=cobalt&ring=e05397&fire=e05397)
+
 
 </div>
