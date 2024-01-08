@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 ### WHO AM I
 
 - 🏁 My MBTI : __ESTP__
-- 🔭 I’m currently studying on Chung-Ang University (2020.02~)
+- 🔭 I’m currently studying on Chung-Ang University (2020.03 ~ 2024.02)
 - 🌱 I’m currently learning __Java__ and __Spring__
 
 
