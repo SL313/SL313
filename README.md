@@ -1,7 +1,8 @@
 <div align="Center">
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&fontColor=F7819F&section=header&text=YEPPPI%20WORLD&fontSize=80&animation=fadeIn&fontAlignY=80&fontAlign=50&desc=Welcome%20to&descAlignY=13.5&descAlign=50&animation=twinkling)
+<!-- ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&fontColor=F7819F&section=header&text=YEPPPI%20WORLD&fontSize=80&animation=fadeIn&fontAlignY=80&fontAlign=50&desc=Welcome%20to&descAlignY=13.5&descAlign=50&animation=twinkling) -->
 
+![header](https://capsule-render.vercel.app/api?type=cylinder&height=180&color=gradient&text=YEPPPI%20World)
 <br/>
 
 </div>
@@ -122,15 +123,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SL313&hide=Jupyter%20Notebook,C,Assembly,Shell,Perl,Roff,Makefile,SmPL,Yacc&layout=compact&theme=dark)
 ![Yebin Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=SL313&show_icons=true&theme=radical)
+-->
+
+
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=SL313&theme=radical&show_icons=true" height="165">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SL313&theme=cobalt&ring=e05397&fire=e05397" alt="SL313" />
 -->
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=SL313&title=MultiLanguage,Commits,Organizations,PullRequest,Repositories,Reviews,Followers&column=7&theme=onedark)
-![streak](https://github-readme-streak-stats.herokuapp.com?user=SL313&theme=cobalt&ring=e05397&fire=e05397)
 
+<!--
+![streak](https://github-readme-streak-stats.herokuapp.com?user=SL313&theme=cobalt&ring=e05397&fire=e05397)
+-->
 
 </div>
