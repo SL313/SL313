@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/>
 </a>
 
-<a href="https://www.instagram.com/2_yepppi/">
+<a href="https://www.instagram.com/2yepppi/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
 
