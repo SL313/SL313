@@ -46,12 +46,32 @@ Here are some ideas to get you started:
 
 <hr/>
 -->
-         
-### WHO AM I
 
-- 🏁 My MBTI : __ESTP__
-- 🔭 I’m currently studying on Chung-Ang University (2020.03 ~ 2024.02)
-- 🌱 I’m currently learning __Java__ and __Spring__
+__Yebin Lee__ <sub>`03/13/2001 (Age 23)`
+
+
+### Work Experience
+
+- __Koscom__  <sub>(2025.01 ~ now)<br/>
+`Software Engineering`<br/>
+
+- __Tmax Fintech__  <sub>(2023.12 ~ 2024.12)<br/>
+`BackEnd Developer`<br/>
+
+- __Frients Co.,Ltd__  <sub>(2023.03 ~ 2023.06)<br/>
+`BackEnd Developer`<br/>
+
+- __TellingUS__  <sub>(2023.01 ~ 2023.12)<br/>
+`BackEnd Developer`<br/>
+
+### Education
+- __ChungAng University__ <sub>(2020.03 ~ 2024.02) <br/>
+`Bachelor's degree of Computer Science` <br/>
+Location: Dongjak-gu, Seoul, South Korea
+
+- __Hanyang University High School__ <sub>(2017.03 ~ 2020.02) <br/>
+Location: Seongdong-gu, Seoul, South Korea
+
 
 <!--
 ### WHAT I LIKE
