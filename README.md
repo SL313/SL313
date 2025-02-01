@@ -1,19 +1,19 @@
 <div align="Center">
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&fontColor=F7819F&section=header&text=YEPPPI%20WORLD&fontSize=80&animation=fadeIn&fontAlignY=80&fontAlign=50&desc=Welcome%20to&descAlignY=13.5&descAlign=50&animation=twinkling) -->
-
+<!-- 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&height=180&color=gradient&text=YEPPPI%20World)
 <br/>
-
+ -->
 </div>
 
 <div align="Center">
 <p align='Center'>
-
+<!-- 
 ### 🔆 TODAY VISITED 🔆
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSL313&count_bg=%23B5E1FF&title_bg=%2383B2FF&icon=smugmug.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/SL313)
-
+ -->
 <!--
 ### 📞 HOW TO CONTACT ME 📞
 
@@ -41,11 +41,11 @@
 <!--
 **SL313/SL313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
--->
+
 
 
 <hr/>
-
+-->
          
 ### WHO AM I
 
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying on Chung-Ang University (2020.03 ~ 2024.02)
 - 🌱 I’m currently learning __Java__ and __Spring__
 
-
+<!--
 ### WHAT I LIKE
 
 - 😄 Meeting Friends
@@ -112,17 +112,12 @@ Here are some ideas to get you started:
 
 <br/>    
 <hr/>
-
+-->
+<!--
 ### 💗 MY GITHUB STATS 💗
-
+-->
 <br/>
 
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SL313&hide=Jupyter%20Notebook,C,Assembly,Shell,Perl,Roff,Makefile,SmPL,Yacc&layout=compact&theme=dark)
@@ -133,9 +128,9 @@ Here are some ideas to get you started:
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=SL313&theme=radical&show_icons=true" height="165">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SL313&theme=cobalt&ring=e05397&fire=e05397" alt="SL313" />
 -->
-
+<!--
 ![trophy](https://github-profile-trophy.vercel.app/?username=SL313&title=MultiLanguage,Commits,Organizations,PullRequest,Repositories,Reviews,Followers&column=7&theme=onedark)
-
+-->
 <!--
 ![streak](https://github-readme-streak-stats.herokuapp.com?user=SL313&theme=cobalt&ring=e05397&fire=e05397)
 -->
